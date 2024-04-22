@@ -1,2 +1,2 @@
 # EigenLayer-Operator
-EigenLayer Operator Repository
+EigenLayer Operator Files Repository
